@@ -1,4 +1,9 @@
 ## Hi there 👋
+## My name is Lucas Lopez
+## I am a Sophomore at Fordham University
+## Majoring in Computer Science and minoring in Business Management
+## I am currently learning Swift
+## You can reach out to me at lucas.lopez.tr@gmail.com
 
 <!--
 **lucastricanico/lucastricanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
