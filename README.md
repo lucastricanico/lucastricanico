@@ -1,9 +1,19 @@
-## Hi there 👋
-## My name is Lucas Lopez
-## I am a Sophomore at Fordham University
-## Majoring in Computer Science and minoring in Business Management
-## I am currently learning Swift
-## You can reach out to me at lucas.lopez.tr@gmail.com
+## 👋 Hi there, I'm Lucas Lopez
+
+🎓 I'm a sophomore at Fordham University – Lincoln Center, double majoring in **Computer Science** and **Digital Media & Technology**.
+
+💻 Currently exploring the worlds of **Swift** and **Python**, with a passion for building creative and impactful tech solutions.
+
+🚀 I'm especially interested in:
+- App development
+- UI/UX design
+- AI + media innovation
+- Community-driven tech projects
+
+📬 Feel free to reach out: **lucas.lopez.tr@gmail.com**
+
+🔗 Let's connect and build cool things together!
+
 
 <!--
 **lucastricanico/lucastricanico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
