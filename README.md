@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Lucas Lopez
 
-🎓 I'm a sophomore at Fordham University – Lincoln Center, double majoring in **Computer Science** and **Digital Media & Technology**.
+🎓 I'm a rising Junior at NYU Tandon School of Engineering, majoring in **Computer Science** and minoring in **Business Management**.
 
 💻 Currently exploring the worlds of **Swift** and **Python**, with a passion for building creative and impactful tech solutions.
 
@@ -10,7 +10,7 @@
 - AI + media innovation
 - Community-driven tech projects
 
-📬 Feel free to reach out: **lucas.lopez.tr@gmail.com** & **llopez94@fordham.edu**
+📬 Feel free to reach out: **lucas.lopez.tr@gmail.com**.
 
 🔗 Let's connect and build cool things together!
 
