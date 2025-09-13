@@ -10,7 +10,7 @@
 - AI + media innovation
 - Community-driven tech projects
 
-📬 Feel free to reach out: **lucas.lopez.tr@gmail.com**.
+📬 Feel free to reach out: **ll5352@nyu.edu**.
 
 🔗 Let's connect and build cool things together!
 
