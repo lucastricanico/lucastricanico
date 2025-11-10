@@ -5,6 +5,7 @@
 💻 Currently exploring the worlds of **Swift** and **Python**, with a passion for building creative and impactful tech solutions.
 
 🚀 I'm especially interested in:
+- iOS Development (especially SwiftUI)
 - App development
 - UI/UX design
 - AI + media innovation
