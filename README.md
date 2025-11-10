@@ -1,16 +1,16 @@
 ## 👋 Hi there, I'm Lucas Lopez
 
-🎓 I'm a rising Junior at NYU Tandon School of Engineering, majoring in **Computer Science** and minoring in **Business Studies**.
+🎓 I'm a Junior at NYU Tandon School of Engineering, majoring in **Computer Science**.
 
 💻 Currently exploring the worlds of **Swift** and **Python**, with a passion for building creative and impactful tech solutions.
 
 🚀 I'm especially interested in:
-- iOS Development (especially SwiftUI)
+- iOS Development (SwiftUI & UIKit)
 - App development
 - UI/UX design
 - AI + media innovation
 - Community-driven tech projects
 
-📬 Feel free to reach out: **ll5352@nyu.edu** / **lucas.lopez.tr@gmail.com**
+📬 Feel free to reach out: **ll5352@nyu.edu**
 
-🔗 Let's connect and build cool things together!
+:)
