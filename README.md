@@ -2,7 +2,7 @@
 
 🎓 I'm a Junior at NYU Tandon School of Engineering, majoring in **Computer Science**.
 
-💻 Currently exploring the worlds of **Swift** and **Python**, with a passion for building creative and impactful tech solutions.
+💻 Exploring the world of **Swift**, with a passion for building creative and impactful tech solutions.
 
 🚀 I'm especially interested in:
 - iOS Development (SwiftUI & UIKit)
