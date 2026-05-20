@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Lucas Lopez
+## 👋 Hi, I'm Lucas!
 
 🎓 I'm a Junior at NYU Tandon School of Engineering, majoring in **Computer Science**.
 
