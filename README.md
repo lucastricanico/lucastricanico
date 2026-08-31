@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Lucas!
 
-🎓 I'm a Junior at NYU Tandon School of Engineering, majoring in **Computer Science**.
+🎓 I'm a Senior at NYU Tandon School of Engineering, majoring in **Computer Science**.
 
 💻 Exploring the world of **Swift**, with a passion for building creative and impactful tech solutions.
 
