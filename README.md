@@ -4,8 +4,6 @@
 
 💻 Exploring the world of **Swift**, with a passion for building creative and impactful tech solutions.
 
-📍 Currently a SWE Intern @ Storytime App
-
 🚀 I'm especially interested in:
 - iOS Development (SwiftUI & UIKit)
 - App development
