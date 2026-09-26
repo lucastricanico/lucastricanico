@@ -2,7 +2,7 @@
 
 Senior @ **NYU** 🗽 studying **CS** 🧑‍💻. 
 
-Passionate about building *creative*, *impactful*, carefully *designed* technology—especially iOS apps.
+Passionate about building creative, impactful, carefully designed technology — especially iOS apps.
 
 When I'm not developing or designing, you'll probably find me at a coffee shop ☕️, out for a run 🏃‍♂️, or playing tennis 🎾.
 
